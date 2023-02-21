@@ -1,0 +1,21 @@
+Package: microarrayBiasEvaluation
+Type: Package
+Title: Functions used to analyze custom Agilent microarrays 
+Version: 0.1.0
+Author: Roman Jaksik
+Maintainer: Roman Jaksik <roman.jaksik@polsl.pl>
+Description: Functions used to analyze custom Agilent microarrays  to determine the extent of specific bias sources    
+License: file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.3
+Depends:
+    R (>= 3.5.0)
+Suggests:
+    knitr,
+    rmarkdown,
+    testthat (>= 3.0.0)
+Imports:
+    tidyverse
+VignetteBuilder: knitr
+Config/testthat/edition: 3
