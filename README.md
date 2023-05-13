@@ -35,6 +35,6 @@ plotT7Bias(expData,probeData,'CustMicro_T7')
 plotG4Bias(expData,probeData,'CustMicro_G4')
 ```
 
-## Acknowledgment
+## Acknowledgment:
 
 The creation of this software was supported by the Polish National Science Centre, grant No. 2016/23/D/ST7/03665.
